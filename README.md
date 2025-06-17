@@ -39,6 +39,13 @@ Learn how to create shared folders with different permission levels in an Active
   - Folder: `accounting`  
     *(Permissions will be set later)*
 
+    ![image](https://github.com/user-attachments/assets/6d191dd3-71c7-40e5-abab-bb8bc514f701)
+    ![image](https://github.com/user-attachments/assets/05e0e3c8-87a0-4819-b8c4-cadefab9c053)
+    ![image](https://github.com/user-attachments/assets/4c9018c5-bbd6-4ddf-bcf4-0e5ac9faacc2)
+
+
+
+
 ---
 
 ## Step 2: Test Access as Normal User
