@@ -23,6 +23,9 @@ Learn how to create shared folders with different permission levels in an Active
   - `write-access`
   - `no-access`
   - `accounting`
+    
+  ![image](https://github.com/user-attachments/assets/d9f26d7a-620f-4986-b20b-8b28d4ebefd7)
+
 - Share each folder and set permissions as follows:
   - Folder: `read-access`  
     Group: **Domain Users**  
