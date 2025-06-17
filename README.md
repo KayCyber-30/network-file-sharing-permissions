@@ -56,6 +56,11 @@ Learn how to create shared folders with different permission levels in an Active
   - Which folders are accessible?
   - Which folders allow file creation/modification?
   - Do the permissions match expectations?
+![image](https://github.com/user-attachments/assets/8e376756-83d8-4297-9780-9c255ba98b5e)
+![image](https://github.com/user-attachments/assets/13efaf20-8b6a-4d91-9e76-bbe5701876da)
+![image](https://github.com/user-attachments/assets/12b4a846-1ea0-4c04-a780-83a25a76ff1d)
+
+
 
 ---
 
