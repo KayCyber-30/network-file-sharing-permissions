@@ -78,6 +78,14 @@ Learn how to create shared folders with different permission levels in an Active
 - Log back into Client-1 as `<someuser>` and try accessing `\\dc-1\accounting` again  
   - Access should now be **granted**
 
+
+![image](https://github.com/user-attachments/assets/c6c71e88-d1ca-471e-8ef7-3386e4d9b921)
+![image](https://github.com/user-attachments/assets/097c5ddc-26a8-4796-a826-319de7b3cb3e)
+![image](https://github.com/user-attachments/assets/61a81826-b9ee-47d7-b966-df65e3b31d32)
+![image](https://github.com/user-attachments/assets/8148e1c9-0a0e-436e-9deb-31a2221b766d)
+
+
+
 ---
 
 ## Summary
